@@ -28,7 +28,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="Java"
     title="Java"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
@@ -36,7 +36,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="Sql"
     title="Sql"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />          
 
@@ -44,7 +44,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="Python"
     title="Python"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />              
 
@@ -52,7 +52,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="HTML"
     title="HTML"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -60,7 +60,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="CSS"
     title="CSS"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />       
 
@@ -68,7 +68,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="JavaScript"
     title="JavaScript"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -84,7 +84,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="Spring"
     title="Spring"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
@@ -92,7 +92,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="MySql"
     title="MySql"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -100,7 +100,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="MySql"
     title="MySql"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -108,7 +108,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
     align="left"
     alt="MySql"
     title="MySql"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
                     
