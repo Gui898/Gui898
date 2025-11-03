@@ -22,7 +22,7 @@ My name is Guilherme Henrique Gomes, I'm 18 and I'm from Rio Grande do Sul. I'm 
 
 ---
 
-### 🤖 Programing Languages
+### 🤖 Languages
 
 <img 
     align="left"
